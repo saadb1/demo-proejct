@@ -1,1 +1,3 @@
-# demo-proejct
+# demo-project
+
+some text
